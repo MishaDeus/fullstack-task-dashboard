@@ -1,0 +1,15 @@
+frontend/
+  src/
+    components/
+      TaskList.jsx
+      TaskForm.jsx
+      Dashboard.jsx
+    pages/
+      Login.jsx
+      Register.jsx
+      Home.jsx
+    api/
+      client.js
+    App.jsx
+  Dockerfile
+  package.json

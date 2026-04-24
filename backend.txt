@@ -1,0 +1,20 @@
+backend/
+  app/
+    main.py
+    api/
+      routes_auth.py
+      routes_tasks.py
+    core/
+      config.py
+      security.py
+    db/
+      models.py
+      database.py
+    schemas/
+      user.py
+      task.py
+    services/
+      auth_service.py
+      task_service.py
+  Dockerfile
+  requirements.txt
